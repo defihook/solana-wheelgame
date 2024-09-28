@@ -3,7 +3,7 @@
 ## Requirements
 
 ## Development
-
+solana p2e game
 ```bash
 npm run dev
 # or
