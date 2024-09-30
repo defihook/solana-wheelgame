@@ -147,10 +147,6 @@ export const playGame = async (
           setLoading(false);
           return undefined;
 
-          // TBD Oura:
-          // 1- Should stop rest of FE execution
-          // 2- Should show Toast to player - "Transaction failed, not enough balance"
-          // 3- Nice to have: show correct error msg according to the error codes from program as shown in error mapping above
         }
       }
     }
