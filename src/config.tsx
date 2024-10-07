@@ -11,7 +11,7 @@ export const DEMODATA = [
     win: true,
   },
   {
-    tx: "4HDr22NLGTgbSH8Gg4SbjLLn4D66gQFbZCoC6ihMpfpcQzNNkqeNES5SAL6zPkagpNJh89skeN4tPdcEcrSrb1Z7",
+    tx: "4HDr22NLGTgbSH8Gg4SbjLLn4D6d6gQFbZCoC6ihMpfpcQzNNkqeNES5SAL6zPkagpNJh89skeN4tPdcEcrSrb1Z7",
     hash: "155962642",
     userAddress: "FUantC3XMnQhpwPF1MciDQLXRfuQCd3DDKLuiYRuX6Vi",
     result: false,
