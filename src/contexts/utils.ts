@@ -2,9 +2,6 @@ import { LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
 import { web3 } from "@project-serum/anchor";
 import { NETWORK } from "../config";
 
-// export const solConnection = new web3.Connection(
-//   "https://blue-patient-thunder.solana-mainnet.quiknode.pro/71df344b7faca0a88bc82476e5d3ac772102554e/"
-// );
 
 // export const solConnection = new web3.Connection(web3.clusterApiUrl(NETWORK));
 export const solConnection = new web3.Connection(
